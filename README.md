@@ -1,4 +1,4 @@
-# 🐦 BirdCLEF Bioacoustics — Species Identification System
+#  BirdCLEF Bioacoustics — Species Identification System
 
 A deep learning-based bioacoustic classification system for identifying bird species from environmental audio recordings. This project leverages large-scale BirdCLEF datasets to model real-world ecological soundscapes, addressing challenges like noise, overlapping calls, and class imbalance.
 
